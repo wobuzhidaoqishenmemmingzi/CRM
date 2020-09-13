@@ -1,0 +1,24 @@
+# Java class files
+*.class
+*.cache
+*.log
+*.lock
+*.bak
+*.epoch
+.classpath
+.project
+# generated files
+target/
+gen/
+bin/
+.settings/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+/dubbo/
+/target/
+/disconf/
